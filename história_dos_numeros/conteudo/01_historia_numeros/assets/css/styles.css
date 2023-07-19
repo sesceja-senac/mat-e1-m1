@@ -1,6 +1,9 @@
 figcaption {
   text-align: center;
 }
+.legenda{ font-size: 13px;  text-align: center;}
+.tooltip-link{    text-decoration: underline;
+  text-decoration-color: blue;}
 #gif {
   margin: 0.5em auto;
   display: block;

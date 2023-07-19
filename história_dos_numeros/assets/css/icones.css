@@ -12,7 +12,7 @@
 
 .icone.dica::before{
     background-image: url(../img/ico-dica.png);
-}
+}   
 
 .icone.praticar::before{
     background-image: url(../img/ico-praticar.png);
@@ -20,13 +20,22 @@
 
 .icone.pergunta::before{
     background-image: url(../img/ico-pergunta.png);
+    width: 113px;
+    height: 126px;
+    left: -70px;
 }
 .icone.refletir::before{
     background-image: url(../img/ico-refletir.png);
+    width: 111px;
+    height: 120px;
+    left: -70px;
 }
 
 .icone.saiba-mais::before{
     background-image: url(../img/ico-saiba.png);
+    width: 119px;
+    height: 127px;
+    left: -80px;
 }
 
 .icone.atencao::before{
