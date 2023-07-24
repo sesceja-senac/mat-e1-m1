@@ -40,6 +40,9 @@
 
 .icone.atencao::before{
     background-image: url(../img/ico-atencao.png);
+    width: 123px;
+    height: 115px;
+    left: -70px;
 }
 
 @media print{
